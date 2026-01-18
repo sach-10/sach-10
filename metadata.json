@@ -1,0 +1,7 @@
+{
+  "name": "Copy of College Event Protocol",
+  "description": "A centralized platform for managing college events with official approval workflows for students, faculty, and administration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
